@@ -1,0 +1,1 @@
+per eseguire il programma, PYTHONSTARTUP="/percorso/Al/File/Gruppo3.py" pyspark

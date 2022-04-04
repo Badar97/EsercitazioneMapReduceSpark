@@ -1,0 +1,2 @@
+hadoop jar ChallengeWordCount.jar ChallengeWordCountDriver /192.168.104.45:9000/test.tsv /output3/partials
+hadoop jar ChallengeMaxFind.jar ChallengeMaxFindDriver /output3/partials/part-r-00000 /output3/finali
